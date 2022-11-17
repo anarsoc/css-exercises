@@ -1,0 +1,12 @@
+/* style.css */
+
+/* style to avatar proportioned */
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+/* style to avatar distorted */
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
