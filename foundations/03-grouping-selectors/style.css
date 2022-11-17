@@ -1,14 +1,16 @@
 /* style.css */
-.buttons{
+.first,
+.second{
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
+    border: none;
 }
 
-.buttons.first{
+.first{
     background-color: black;
     color: white;
 }
 
-.buttons.second{
+.second{
     background-color: yellow;
 }
